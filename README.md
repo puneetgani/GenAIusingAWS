@@ -2,7 +2,7 @@
 
 This project demonstrates how to create a Generative AI-based blog generation system using various AWS services. The system involves generating blog content using AWS Bedrock, processing it with AWS Lambda, and storing the generated content in an S3 bucket.
 
-![Architecture](https://user-images.githubusercontent.com/106878112/202919049-fd023444-f9b4-4936-b497-d04f6d12e9f2.png)
+![AWS Lamda](https://github.com/puneetgani/GenAIusingAWS/assets/106878112/8f3e4320-0a72-4ccb-9566-b4d0f513c1dc)
 
 ## Tech Stack
 
