@@ -26,6 +26,7 @@ def blog_generate_using_bedrock(blogtopic:str)-> str:
         response_data = json.loads(response_content)
         print(response_data)
         blog_details = response_data['generation']
+        return blog_details
 
     except Exception as e:
         print(f"Error generating the blog:{e}")
